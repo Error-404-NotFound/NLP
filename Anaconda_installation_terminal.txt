@@ -1,0 +1,290 @@
+aniket@aniketjohri:~/Downloads$ chmod +x Anaconda3-2023.09-0-Linux-x86_64.sh
+aniket@aniketjohri:~/Downloads$ ls
+Anaconda3-2023.09-0-Linux-x86_64.sh  code_1.82.2-1694671812_amd64.deb
+aniket@aniketjohri:~/Downloads$ ./Anaconda3-2023.09-0-Linux-x86_64.sh 
+
+Welcome to Anaconda3 2023.09-0
+
+In order to continue the installation process, please review the license
+agreement.
+Please, press ENTER to continue
+>>> 
+==================================================
+End User License Agreement - Anaconda Distribution
+==================================================
+
+Copyright 2015-2023, Anaconda, Inc.
+
+All rights reserved under the 3-clause BSD License:
+
+This End User License Agreement (the "Agreement") is a legal agreement between y
+ou and Anaconda, Inc. ("Anaconda") and governs your use of Anaconda Distribution
+ (which was formerly known as Anaconda Individual Edition).
+
+Subject to the terms of this Agreement, Anaconda hereby grants you a non-exclusi
+ve, non-transferable license to:
+
+  * Install and use the Anaconda Distribution (which was formerly known as Anaco
+nda Individual Edition),
+  * Modify and create derivative works of sample source code delivered in Anacon
+da Distribution from Anaconda's repository, and;
+  * Redistribute code files in source (if provided to you by Anaconda as source)
+ and binary forms, with or without modification subject to the requirements set 
+forth below, and;
+
+Anaconda may, at its option, make available patches, workarounds or other update
+s to Anaconda Distribution. Unless the updates are provided with their separate 
+governing terms, they are deemed part of Anaconda Distribution licensed to you a
+s provided in this Agreement.  This Agreement does not entitle you to any suppor
+t for Anaconda Distribution.
+
+Anaconda reserves all rights not expressly granted to you in this Agreement.
+
+Redistribution and use in source and binary forms, with or without modification,
+ are permitted provided that the following conditions are met:
+
+  * Redistributions of source code must retain the above copyright notice, this 
+list of conditions and the following disclaimer.
+  * Redistributions in binary form must reproduce the above copyright notice, th
+is list of conditions and the following disclaimer in the documentation and/or o
+ther materials provided with the distribution.
+  * Neither the name of Anaconda nor the names of its contributors may be used t
+o endorse or promote products derived from this software without specific prior 
+written permission.
+  * The purpose of the redistribution is not part of a commercial product for re
+sale. Please contact the Anaconda team for a third party redistribution commerci
+al license
+  * Commercial usage of the repository is non-compliant with our Terms of Servic
+e . Please contact us to learn more about our commercial offerings.
+
+You acknowledge that, as between you and Anaconda, Anaconda owns all right, titl
+e, and interest, including all intellectual property rights, in and to Anaconda 
+Distribution and, with respect to third-party products distributed with or throu
+gh Anaconda Distribution, the applicable third-party licensors own all right, ti
+tle and interest, including all intellectual property rights, in and to such pro
+ducts.  If you send or transmit any communications or materials to Anaconda sugg
+esting or recommending changes to the software or documentation, including witho
+ut limitation, new features or functionality relating thereto, or any comments, 
+questions, suggestions or the like ("Feedback"), Anaconda is free to use such Fe
+edback. You hereby assign to Anaconda all right, title, and interest in, and Ana
+conda is free to use, without any attribution or compensation to any party, any 
+ideas, know-how, concepts, techniques or other intellectual property rights cont
+ained in the Feedback, for any purpose whatsoever, although Anaconda is not requ
+ired to use any Feedback.
+
+THIS SOFTWARE IS PROVIDED BY ANACONDA AND ITS CONTRIBUTORS "AS IS" AND ANY EXPRE
+SS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES 
+OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EV
+ENT SHALL ANACONDA BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEM
+PLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF S
+UBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUP
+TION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+ LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT O
+F THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, ANACONDA AND ITS AFFILIATES SHALL NOT BE
+ LIABLE FOR ANY SPECIAL, INCIDENTAL, PUNITIVE OR CONSEQUENTIAL DAMAGES, OR ANY L
+OST PROFITS, LOSS OF USE, LOSS OF DATA OR LOSS OF GOODWILL, OR THE COSTS OF PROC
+URING SUBSTITUTE PRODUCTS, ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT O
+R THE USE OR PERFORMANCE OF ANACONDA DISTRIBUTION, WHETHER SUCH LIABILITY ARISES
+ FROM ANY CLAIM BASED UPON BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDI
+NG NEGLIGENCE), PRODUCT LIABILITY OR ANY OTHER CAUSE OF ACTION OR THEORY OF LIAB
+ILITY. IN NO EVENT WILL THE TOTAL CUMULATIVE LIABILITY OF ANACONDA AND ITS AFFIL
+IATES UNDER OR ARISING OUT OF THIS AGREEMENT EXCEED 10.00 U.S. DOLLARS.
+
+If you want to terminate this Agreement, you may do so by discontinuing use of A
+naconda Distribution.  Anaconda may, at any time, terminate this Agreement and t
+he license granted hereunder if you fail to comply with any term of this Agreeme
+nt.   Upon any termination of this Agreement, you agree to promptly discontinue 
+use of the Anaconda Distribution and destroy all copies in your possession or co
+ntrol. Upon any termination of this Agreement all provisions survive except for 
+the licenses granted to you.
+
+This Agreement is governed by and construed in accordance with the internal laws
+ of the State of Texas without giving effect to any choice or conflict of law pr
+ovision or rule that would require or permit the application of the laws of any 
+jurisdiction other than those of the State of Texas. Any legal suit, action, or 
+proceeding arising out of or related to this Agreement or the licenses granted h
+ereunder by you must be instituted exclusively in the federal courts of the Unit
+ed States or the courts of the State of Texas in each case located in Travis Cou
+nty, Texas, and you irrevocably submit to the jurisdiction of such courts in any
+ such suit, action, or proceeding.
+
+Notice of Third Party Software Licenses
+=======================================
+
+Anaconda Distribution provides access to a repository which contains software pa
+ckages or tools licensed on an open source basis from third parties and binary p
+ackages of these third party tools. These third party software packages or tools
+ are provided on an "as is" basis and are subject to their respective license ag
+reements as well as this Agreement and the Terms of Service for the Repository l
+ocated at https://know.anaconda.com/TOS.html; provided, however, no restriction 
+contained in the Terms of Service shall be construed so as to limit Your ability
+ to download the packages contained in Anaconda Distribution provided you comply
+ with the license for each such package.  These licenses may be accessed from wi
+thin the Anaconda Distribution software or https://www.anaconda.com/legal. Infor
+mation regarding which license is applicable is available from within many of th
+e third party software packages and tools and at https://repo.anaconda.com/pkgs/
+main/ and https://repo.anaconda.com/pkgs/r/. Anaconda reserves the right, in its
+ sole discretion, to change which third party tools are included in the reposito
+ry accessible through Anaconda Distribution.
+
+Intel Math Kernel Library
+-------------------------
+
+Anaconda Distribution provides access to re-distributable, run-time, shared-libr
+ary files from the Intel Math Kernel Library ("MKL binaries").
+
+Copyright 2018 Intel Corporation.  License available at https://software.intel.c
+om/en-us/license/intel-simplified-software-license (the "MKL License").
+
+You may use and redistribute the MKL binaries, without modification, provided th
+e following conditions are met:
+
+  * Redistributions must reproduce the above copyright notice and the following 
+terms of use in the MKL binaries and in the documentation and/or other materials
+ provided with the distribution.
+  * Neither the name of Intel nor the names of its suppliers may be used to endo
+rse or promote products derived from the MKL binaries without specific prior wri
+tten permission.
+  * No reverse engineering, decompilation, or disassembly of the MKL binaries is
+ permitted.
+
+You are specifically authorized to use and redistribute the MKL binaries with yo
+ur installation of Anaconda Distribution subject to the terms set forth in the M
+KL License. You are also authorized to redistribute the MKL binaries with Anacon
+da Distribution or in the Anaconda package that contains the MKL binaries. If ne
+eded, instructions for removing the MKL binaries after installation of Anaconda 
+Distribution are available at https://docs.anaconda.com.
+
+cuDNN Software
+--------------
+
+Anaconda Distribution also provides access to cuDNN software binaries ("cuDNN bi
+naries") from NVIDIA Corporation. You are specifically authorized to use the cuD
+NN binaries with your installation of Anaconda Distribution subject to your comp
+liance with the license agreement located at https://docs.nvidia.com/deeplearnin
+g/sdk/cudnn-sla/index.html. You are also authorized to redistribute the cuDNN bi
+naries with an Anaconda Distribution package that contains the cuDNN binaries. Y
+ou can add or remove the cuDNN binaries utilizing the install and uninstall feat
+ures in Anaconda Distribution.
+
+cuDNN binaries contain source code provided by NVIDIA Corporation.
+
+Arm Performance Libraries
+-------------------------
+
+Arm Performance Libraries (Free Version): Anaconda provides access to software a
+nd related documentation from the Arm Performance Libraries ("Arm PL") provided 
+by Arm Limited. By installing or otherwise accessing the Arm PL, you acknowledge
+ and agree that use and distribution of the Arm PL is subject to your compliance
+ with the Arm PL end user license agreement located at: https://developer.arm.co
+m/tools-and-software/server-and-hpc/downloads/arm-performance-libraries/eula.
+
+Export; Cryptography Notice
+===========================
+
+You must comply with all domestic and international export laws and regulations 
+that apply to the software, which include restrictions on destinations, end user
+s, and end use.  Anaconda Distribution includes cryptographic software. The coun
+try in which you currently reside may have restrictions on the import, possessio
+n, use, and/or re-export to another country, of encryption software. BEFORE usin
+g any encryption software, please check your country's laws, regulations and pol
+icies concerning the import, possession, or use, and re-export of encryption sof
+tware, to see if this is permitted. See the Wassenaar Arrangement http://www.was
+senaar.org/ for more information.
+
+Anaconda has self-classified this software as Export Commodity Control Number (E
+CCN) EAR99 which includes mass market information security software using or per
+forming cryptographic functions with asymmetric algorithms. No license is requir
+ed for export of this software to non-embargoed countries.
+
+The Intel Math Kernel Library contained in Anaconda Distribution is classified b
+y Intel as ECCN 5D992.c with no license required for export to non-embargoed cou
+ntries.
+
+The following packages listed on https://www.anaconda.com/cryptography are inclu
+ded in the repository accessible through Anaconda Distribution that relate to cr
+yptography.
+
+Last updated February 25, 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do you accept the license terms? [yes|no]
+[no] >>> yes     
+
+Anaconda3 will now be installed into this location:
+/home/aniket/anaconda3
+
+  - Press ENTER to confirm the location
+  - Press CTRL-C to abort the installation
+  - Or specify a different location below
+
+[/home/aniket/anaconda3] >>> 
+PREFIX=/home/aniket/anaconda3
+Unpacking payload ...
+                                                                                
+Installing base environment...
+
+
+Downloading and Extracting Packages
+
+
+Downloading and Extracting Packages
+
+Preparing transaction: done
+Executing transaction: | 
+
+    Installed package of scikit-learn can be accelerated using scikit-learn-intelex.
+    More details are available here: https://intel.github.io/scikit-learn-intelex
+
+    For example:
+
+        $ conda install scikit-learn-intelex
+        $ python -m sklearnex my_application.py
+
+    
+
+done
+installation finished.
+Do you wish to update your shell profile to automatically initialize conda?
+This will activate conda on startup and change the command prompt when activated.
+If you'd prefer that conda's base environment not be activated on startup,
+   run the following command when conda is activated:
+
+conda config --set auto_activate_base false
+
+You can undo this by running `conda init --reverse $SHELL`? [yes|no]
+[no] >>> yes
+no change     /home/aniket/anaconda3/condabin/conda
+no change     /home/aniket/anaconda3/bin/conda
+no change     /home/aniket/anaconda3/bin/conda-env
+no change     /home/aniket/anaconda3/bin/activate
+no change     /home/aniket/anaconda3/bin/deactivate
+no change     /home/aniket/anaconda3/etc/profile.d/conda.sh
+no change     /home/aniket/anaconda3/etc/fish/conf.d/conda.fish
+no change     /home/aniket/anaconda3/shell/condabin/Conda.psm1
+no change     /home/aniket/anaconda3/shell/condabin/conda-hook.ps1
+no change     /home/aniket/anaconda3/lib/python3.11/site-packages/xontrib/conda.xsh
+no change     /home/aniket/anaconda3/etc/profile.d/conda.csh
+modified      /home/aniket/.bashrc
+
+==> For changes to take effect, close and re-open your current shell. <==
+
+Thank you for installing Anaconda3!
+
